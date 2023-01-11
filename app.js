@@ -1,8 +1,8 @@
-let a= 10;
-let b= 20;
+let x= 10;
+let y= 20;
 
-let temp=a;
-a=b;
-b=temp;
+let temp=x;
+x=y;
+y=temp;
 
-console.log(b);
+console.log(y);
